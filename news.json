@@ -1,0 +1,266 @@
+{
+    "status": "ok",
+    "totalResults": 70,
+    "articles": [
+        {
+            "source": {
+                "id": null,
+                "name": "Investor's Business Daily"
+            },
+            "author": "Investor's Business Daily",
+            "title": "Stock Market Today: Dow Jones Futures Fall Ahead Of Powell Speech; Nvidia, Tesla Slide - Investor's Business Daily",
+            "description": null,
+            "url": "https://www.investors.com/market-trend/stock-market-today/dow-jones-sp500-nasdaq-powell-speech-nvidia-stock-nvda-tsla/",
+            "urlToImage": null,
+            "publishedAt": "2024-09-30T12:10:00Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "CNBC"
+            },
+            "author": "Michael Wayland",
+            "title": "Ford aims to boost EV sales, address owner concerns with new benefits program - CNBC",
+            "description": "The \"Ford Power Promise\" program begins Tuesday for customers who purchase or lease a new Ford EV such as the F-150 Lightning or Mustang Mach-E.",
+            "url": "https://www.cnbc.com/2024/09/30/ford-ev-benefits-program-aims-to-boost-sales.html",
+            "urlToImage": "https://image.cnbcfm.com/api/v1/image/107395243-1712010560168-IMG_2813.jpg?v=1712782577&w=1920&h=1080",
+            "publishedAt": "2024-09-30T12:00:01Z",
+            "content": "DETROIT Ford Motor is aiming to boost sales of its electric vehicles by addressing potential customer concerns through a new program that includes free home-charging installation and other benefits.\r… [+3097 chars]"
+        },
+        {
+            "source": {
+                "id": "the-washington-post",
+                "name": "The Washington Post"
+            },
+            "author": "Rachel Roubein, Joe Heim",
+            "title": "How ignored warnings at Boar’s Head plant led to a deadly listeria outbreak - The Washington Post",
+            "description": "Filthy conditions, aging equipment and haphazard cleaning at the Jarratt, Va., plant may have made some of its products microbial time bombs waiting to explode.",
+            "url": "https://www.washingtonpost.com/health/2024/09/30/boars-head-deli-meat-listeria-outbreak-what-happened/",
+            "urlToImage": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/MMD4PMSFKRBBPL2AY6R2XAECC4.jpg&w=1440",
+            "publishedAt": "2024-09-30T11:57:22Z",
+            "content": "In mid-July, as listeria infection cases multiplied across the United States, Maryland health officials who track foodborne illnesses grew increasinglyalarmed. The outbreak was spreading at a much mo… [+19871 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Variety"
+            },
+            "author": "Todd Spangler",
+            "title": "DirecTV to Acquire Dish in Merger of Satellite TV Rivals - Variety",
+            "description": "DirecTV announced a deal to acquire EchoStar's Dish Network and Sling TV for $1 plus assumption of nearly $10 billion in debt.",
+            "url": "https://variety.com/2024/tv/news/directv-acquires-dish-merger-1236159244/",
+            "urlToImage": "https://variety.com/wp-content/uploads/2024/09/DirecTV-acquires-Dish.jpg?w=1000&h=563&crop=1",
+            "publishedAt": "2024-09-30T11:26:00Z",
+            "content": "DirecTV and Dish Network, longtime satellite TV adversaries, are set to merge. DirecTV announced a deal Monday with Dish parent company EchoStar to acquire Dish in a deal valued at nearly $10 billion… [+5536 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "MacRumors"
+            },
+            "author": "Tim Hardwick",
+            "title": "Apple No Longer in Talks to Invest in ChatGPT Maker OpenAI - MacRumors",
+            "description": "Apple has reportedly exited negotiations to invest in OpenAI, the company behind the popular ChatGPT AI chatbot, according to The Wall Street...",
+            "url": "https://www.macrumors.com/2024/09/30/apple-no-longer-investing-openai-chatgpt/",
+            "urlToImage": "https://images.macrumors.com/t/zggPcKjMrDYmmhJSouuxGdKz63c=/1825x/article-new/2024/08/iOS-18-ChatGPT.jpg",
+            "publishedAt": "2024-09-30T10:55:29Z",
+            "content": "Apple has reportedly exited negotiations to invest in OpenAI, the company behind the popular ChatGPT AI chatbot, according to The Wall Street Journal.\r\nApple had been in discussions to participate in… [+1612 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "MarketWatch"
+            },
+            "author": "Jamie Chisholm",
+            "title": "Why JPMorgan says it’s too early to buy emerging markets for the long term. - MarketWatch",
+            "description": "A Trump win would pressure emerging-markets equities, says JPMorgan",
+            "url": "https://www.marketwatch.com/story/emerging-markets-have-surged-why-jpmorgan-says-its-too-early-to-buy-for-the-long-term-0e2712fe",
+            "urlToImage": "https://images.mktw.net/im-20662049/social",
+            "publishedAt": "2024-09-30T10:46:00Z",
+            "content": "Its the last day of what so far has turned out to be a positive September for Wall Street, with the S&amp;P 500 up 1.6% for the month to date.\r\nIndeed, theres been a renewed burst of optimism across … [+131 chars]"
+        },
+        {
+            "source": {
+                "id": "reuters",
+                "name": "Reuters"
+            },
+            "author": "Makini Brice, Nick Carey",
+            "title": "Stellantis warns on profit, citing global markets, Chinese competition - Reuters",
+            "description": "Stellantis cut its 2024 profit forecast on Monday and warned it will burn through more cash than expected as Europe's No.2 carmaker pledged to reduce output and offer big discounts to revive its U.S. business, wiping billions of its market value.",
+            "url": "https://www.reuters.com/business/autos-transportation/stellantis-revises-guidance-downward-citing-performance-issues-industry-dynamics-2024-09-30/",
+            "urlToImage": "https://www.reuters.com/resizer/v2/RR46ANSWHZP6XO7ZHHP5JGWIKU.jpg?auth=924931c241303e7e911f850201e7641e34ca4ebaefc83a633d687686385b8d2a&height=1005&width=1920&quality=80&smart=true",
+            "publishedAt": "2024-09-30T10:45:30Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "reuters",
+                "name": "Reuters"
+            },
+            "author": "Ellen Zhang, Ryan Woo",
+            "title": "China's factory, service sector activity skids - Reuters",
+            "description": "China's factory activity shrank for a fifth straight month and the services sector slowed sharply in September, suggesting Beijing will need even more stimulus to hit its 2024 growth target with only three months left in the year.",
+            "url": "https://www.reuters.com/markets/asia/chinas-factory-service-sectors-skid-stimulus-calls-grow-2024-09-30/",
+            "urlToImage": "https://www.reuters.com/resizer/v2/J7JCCYQUHJMCJG2OPOLHFBIQWQ.jpg?auth=dfb7cede9a579ed68cc1f2650e807914fde386cd5f0567486a5daecb44316b34&height=1005&width=1920&quality=80&smart=true",
+            "publishedAt": "2024-09-30T10:28:12Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "the-wall-street-journal",
+                "name": "The Wall Street Journal"
+            },
+            "author": "Caitlin McCabe",
+            "title": "Stocks to Watch Monday: NIO, Alibaba, Stellantis, GM - The Wall Street Journal",
+            "description": "Follow along for live updates on stocks, bonds and markets, including the Dow Jones Industrial Average, S&P 500 and Nasdaq Composite.",
+            "url": "https://www.wsj.com/livecoverage/stock-market-today-dow-sp500-nasdaq-live-09-30-2024",
+            "urlToImage": "https://images.wsj.net/im-925349/social",
+            "publishedAt": "2024-09-30T10:24:00Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Yahoo Entertainment"
+            },
+            "author": "Reuters",
+            "title": "AT&T sells 70% stake in DirecTV to TPG for $7.6 billion - Yahoo Finance",
+            "description": "AT&T, which acquired DirecTV in 2015, signed a joint-venture agreement with TPG in 2021, in which the private equity firm contributed about $1.8 billion in...",
+            "url": "https://finance.yahoo.com/news/t-sells-70-stake-directv-102308337.html",
+            "urlToImage": "https://media.zenfs.com/en/reuters-finance.com/497a547b5833150bc7ed6bbce81a8524",
+            "publishedAt": "2024-09-30T10:23:08Z",
+            "content": "(Reuters) -AT&amp;T said on Monday it would sell its entire 70% stake in satellite TV provider DirecTV to private equity firm TPG for $7.6 billion, exiting a business marked by declining distribution… [+1350 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Fox Business"
+            },
+            "author": "Suzanne O'Halloran",
+            "title": "Port strike will bring another hit to farmers, says former Trump official - Fox Business",
+            "description": "A potential strike by workers at more than 30 seaports from Texas to Maine could wreak supply chain havoc in U.S., impacting food supply, medicine, cars and auto parts.",
+            "url": "https://www.foxbusiness.com/economy/port-strike-bring-another-hit-farmers-says-former-trump-official",
+            "urlToImage": "https://a57.foxnews.com/static.foxbusiness.com/foxbusiness.com/content/uploads/2024/09/0/0/Port-of-Los-Angeles.jpg?ve=1&tl=1",
+            "publishedAt": "2024-09-30T10:00:00Z",
+            "content": "The strike by workers at ports from Texas to Maine will reportedly hammer U.S. farmers already dealing with an economic downward spiral. \r\n\"We don't need another hit right now. And this is definitely… [+2949 chars]"
+        },
+        {
+            "source": {
+                "id": "axios",
+                "name": "Axios"
+            },
+            "author": "Axios",
+            "title": "U.S. plans to revive reactors as AI powers nuclear renaissance - Axios",
+            "description": null,
+            "url": "https://www.axios.com/2024/09/30/nuclear-plants-energy-ai-data-centers",
+            "urlToImage": null,
+            "publishedAt": "2024-09-30T09:39:56Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Yahoo Entertainment"
+            },
+            "author": "ZIMO ZHONG",
+            "title": "Global markets get bumpy ride, as Japan's stocks slump while Chinese markets soar - Yahoo Finance",
+            "description": "Global markets had a wild start to the week, with Tokyo’s Nikkei 225 index tumbling nearly 5% while Chinese markets soared on news of fresh stimulus for the ...",
+            "url": "https://finance.yahoo.com/news/japans-nikkei-index-sinks-4-005832373.html/",
+            "urlToImage": "https://s.yimg.com/cv/apiv2/social/images/yahoo_default_logo.png",
+            "publishedAt": "2024-09-30T09:10:05Z",
+            "content": "HONG KONG (AP) Global markets had a wild start to the week, with Tokyos Nikkei 225 index tumbling nearly 5% while Chinese markets soared on news of fresh stimulus for the faltering economy, with Shan… [+4135 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Motley Fool"
+            },
+            "author": "The Motley Fool",
+            "title": "Qualcomm's Interest in Intel Could Spell Trouble for TSMC - The Motley Fool",
+            "description": null,
+            "url": "https://www.fool.com/investing/2024/09/30/qualcomm-interest-intel-spell-trouble-tsmc/",
+            "urlToImage": null,
+            "publishedAt": "2024-09-30T09:10:00Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Tipranks.com"
+            },
+            "author": "Kirti Tak",
+            "title": "NIO Shares Rally as China Unit Secures $1.9B Capital Infusion - TipRanks",
+            "description": "Shares of Hong Kong-listed NIO ($HK:9866) rallied after its China unit secured a capital infusion of ¥13.3 billion ($1.9 billion) from its parent company and other ...",
+            "url": "https://www.tipranks.com/news/nio-shares-rally-as-china-unit-secures-1-9b-capital-infusion",
+            "urlToImage": "https://blog.tipranks.com/wp-content/uploads/2024/09/shutterstock_2075559868-750x406.jpg",
+            "publishedAt": "2024-09-30T08:08:22Z",
+            "content": "Shares of Hong Kong-listed NIO (HK:9866) rallied after its China unit secured a capital infusion of ¥13.3 billion ($1.9 billion) from its parent company and other investors. The investment comes at t… [+2107 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Motley Fool"
+            },
+            "author": "The Motley Fool",
+            "title": "A Once-in-a-Decade Opportunity: 2 AI Stocks to Buy Before They Soar 175% and 560%, According to Certain Wall Street Analysts - The Motley Fool",
+            "description": null,
+            "url": "https://www.fool.com/investing/2024/09/30/once-in-decade-2-ai-stocks-to-buy-before-soar-560/",
+            "urlToImage": null,
+            "publishedAt": "2024-09-30T08:06:00Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "MarketWatch"
+            },
+            "author": "Steve Goldstein",
+            "title": "Chinese stocks soar again on hopes for further stimulus - MarketWatch",
+            "description": "UBS says China stocks trade at 30% discount to other emerging markets",
+            "url": "https://www.marketwatch.com/story/chinese-stocks-soar-again-on-hopes-for-further-stimulus-acf00130",
+            "urlToImage": "https://images.mktw.net/im-39411649/social",
+            "publishedAt": "2024-09-30T07:58:00Z",
+            "content": "Steven Goldstein is based in London and responsible for MarketWatch's coverage of financial markets in Europe, with a particular focus on global macro and commodities. Previously, he was Washington b… [+121 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "CoinDesk"
+            },
+            "author": "Shaurya Malwa",
+            "title": "Bitcoin’s Bearish September May Be Its Best Since 2013 Ahead of Bullish October - CoinDesk",
+            "description": "BTC is close to ending September up 9%, its best since 2013, ahead of a seasonally bullish October.",
+            "url": "https://www.coindesk.com/markets/2024/09/30/bitcoins-bearish-september-may-be-its-best-since-2013-ahead-of-bullish-october/",
+            "urlToImage": "https://www.coindesk.com/resizer/S0nBc8zWxNgNGYzTqoDG-ShHdho=/1200x628/center/middle/cloudfront-us-east-1.images.arcpublishing.com/coindesk/OL3OLK5L5BHNZCBVN4W26LXKXE.jpg",
+            "publishedAt": "2024-09-30T07:37:00Z",
+            "content": "Please note that ourprivacy policy,terms of use,cookies, anddo not sell my personal informationhas been updated.\r\nCoinDesk is anaward-winningmedia outlet that covers the cryptocurrency industry. Its … [+593 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Ambcrypto.com"
+            },
+            "author": "Akashnath S",
+            "title": "Ripple price prediction: What’s next after XRP jumps 7% in 12 hours? - AMBCrypto News",
+            "description": "XRP bulls were dominant, but this could be short-lived if the long-term range highs at $0.71 rebuff the buyers once again.",
+            "url": "https://ambcrypto.com/xrp-legal-speculation-boosts-altcoin-7-in-12-hours-whats-next/",
+            "urlToImage": "https://ambcrypto.com/wp-content/uploads/2024/09/XRP-Featured-4.webp",
+            "publishedAt": "2024-09-30T07:03:25Z",
+            "content": "<ul><li>XRP gained 7% in the space of 12 hours, more could follow.</li><li>Accumulation trends supported the idea of a move toward $0.7.</li></ul>Ripple [XRP] noted rapid price gains in recent hours … [+1899 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Benzinga"
+            },
+            "author": "Kaustubh Bagalkote",
+            "title": "Nvidia Stock Could Touch $800 By 2030, BGG Executive Predicts 550% Upside Driven By AI Revolution And Web3 Transition - Benzinga",
+            "description": "Former Boston Consulting Group executive Phil Panaro forecasts that NVIDIA Corp shares could reach $800 by 2030. This prediction suggests a potential 558.98% increase from its current price.",
+            "url": "https://www.benzinga.com/markets/equities/24/09/41084992/nvidia-stock-could-touch-800-by-2030-bgg-executive-predicts-550-upside-driven-by-ai-revolution-a",
+            "urlToImage": "https://cdn.benzinga.com/files/images/story/2024/09/30/NVIDIA-Corporation-NVDA.jpeg?width=1200&height=800&fit=crop",
+            "publishedAt": "2024-09-30T06:35:04Z",
+            "content": "Former Boston Consulting Group executive Phil Panaro forecasts that NVIDIA CorpNVDA shares could reach $800 by 2030. This prediction suggests a potential 558.98% increase from its current price.\r\nWha… [+3083 chars]"
+        }
+    ]
+}
